@@ -1,4 +1,5 @@
 # TRABAJO PRACTICO N° 2
+### Ingresar a "python class 6"
 
 ## Configuración del Programa
 
